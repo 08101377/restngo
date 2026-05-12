@@ -1,2 +1,2 @@
 # restngo
-Rest&amp;Go - Pauses chez quelqu'un
+Rest&amp;Go - La pause humaine, près de vous
